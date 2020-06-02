@@ -1,7 +1,7 @@
 {
-  "name": "forkify",
+  "name": "food-manager",
   "version": "1.0.0",
-  "description": "forkify project",
+  "description": "food project",
   "main": "index.js",
   "scripts": {
     "dev": "webpack --mode development",
